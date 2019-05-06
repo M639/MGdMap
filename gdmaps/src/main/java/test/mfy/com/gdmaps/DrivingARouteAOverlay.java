@@ -17,10 +17,12 @@ import com.amap.api.services.route.TMC;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * 作者:M
+ * 日期：2019/5/6
+ * 作用:导航路线图层类
+ * */
 
-/**
- * 导航路线图层类。
- */
 public class DrivingARouteAOverlay extends RouteAOverlay {
 
 	private DrivePath drivePath;

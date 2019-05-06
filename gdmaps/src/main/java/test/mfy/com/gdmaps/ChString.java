@@ -1,5 +1,11 @@
 package test.mfy.com.gdmaps;
 
+/*
+ * 作者:M
+ * 日期：2019/5/6
+ * 作用:ChString
+ * */
+
 public class ChString {
 	public static final String Kilometer = "\u516c\u91cc";// "公里";
 	public static final String Meter = "\u7c73";// "米";

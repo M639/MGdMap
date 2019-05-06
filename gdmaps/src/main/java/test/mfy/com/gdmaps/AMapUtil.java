@@ -15,6 +15,12 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+/*
+ * 作者:M
+ * 日期：2019/5/6
+ * 作用:AMapUtil
+ * */
+
 public class AMapUtil {
 	/**
 	 * 判断edittext是否null
